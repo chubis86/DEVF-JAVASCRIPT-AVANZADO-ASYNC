@@ -1,0 +1,43 @@
+.header{
+    height:100px;
+    width:100%;
+    background-color:black;
+    position:sticky;
+    top:0px;
+    color:white;
+    text-align: center;
+    font-weight: bold;
+    vertical-align:baseline;
+}
+.container{
+    width:80%;
+    background-color:azure;
+    margin:0 auto;
+    text-align:center;
+}
+
+.imagen{
+    width:100%;
+    height: auto;
+    margin-bottom: 10px;
+    
+}
+
+img{
+    object-fit: cover;
+    width:70%;
+    height:70%;
+}
+
+.ejercicio{
+    padding: 30px;
+    font-size: 20px;
+ 
+}
+
+button{
+    background-color: cornflowerblue;
+    font-weight: 20px;
+    color:white;
+    padding:10px;
+}
